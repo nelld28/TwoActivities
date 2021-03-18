@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counterHomework</string>
+    <string name="initital_value">0</string>
+    <string name="enter_value" />
+</resources>
